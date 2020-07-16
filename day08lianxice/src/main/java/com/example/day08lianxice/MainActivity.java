@@ -37,6 +37,7 @@ public class MainActivity extends BeanActivity<MainPresenter> implements MainVie
     RecyclerView mRecy;
     private ArrayList<BeanData.BodyBean.ResultBean> list;
     private RecyAdapter adapter;
+    private String m="888888";
 
 
     @Override
