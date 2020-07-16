@@ -37,6 +37,7 @@ public class MainActivity extends BeanActivity<MainPresenter> implements MainVie
     private RecyAdapter adapter;
     private SmartRefreshLayout mSmarl;
     int pas=1;
+    String a="666666";
 
     @Override
     public void setData(List<BeanData.T1348647909107Bean> list) {
